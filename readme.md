@@ -8,3 +8,5 @@ Step 3. Press 'Save'. The app will tell you if everything is ok (or not)
 Step 4. ~~She'll be waiting~~ Happy respecing
 
 ![](./image.png)
+
+[Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=193145892)
